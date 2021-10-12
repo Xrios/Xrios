@@ -4,6 +4,8 @@
 #### I am Developer, Coder, Ethical Hacker
 ![I am Developer, Coder, Ethical Hacker](https://api.creavite.co/out/e858e1b3-e7a2-4c40-9a7b-e00edaf74249_static.png)
 
+![Profile views](https://gpvc.arturio.dev/Xrios)
+
 I Make projects just for myself or public
 Im active alot on discord or github
 
@@ -22,7 +24,7 @@ Skills: Python /C /C#C++ /CSS3 /HTML5 /Java /Javascript /Lua /PHP /Ruby /Swift/D
 https://discord.gg/j43qqBNh
 
 
-### My Operating System
+### My Operating System 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -53,6 +55,6 @@ https://discord.gg/j43qqBNh
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Xrios)  
+Instgram , Reddit
 
-![Profile views](https://gpvc.arturio.dev/Xrios)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ownqe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AtlasXr)  
