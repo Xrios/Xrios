@@ -16,20 +16,13 @@
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Xrios&show_icons=true&gruvbox=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrios&show_icons=true&theme=radical)
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-https://discord.gg/j43qqBNh
-
-
 ### My Operating System 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ### Editors i use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
 
 
 #### Programming Languages I use and Know
