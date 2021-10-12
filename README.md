@@ -1,23 +1,39 @@
 🎋 W E L C O M E 🎋
 
+### Hi there 👋, Hey It's me Xrios
+#### I am Developer, Coder, Ethical Hacker
+![I am Developer, Coder, Ethical Hacker](https://api.creavite.co/out/e858e1b3-e7a2-4c40-9a7b-e00edaf74249_static.png)
+
+I Make projects just for myself or public
+Im active alot on discord or github
+
+Skills: Python /C /C#C++ /CSS3 /HTML5 /Java /Javascript /Lua /PHP /Ruby /Swift/Dart /Julia /Rust /ShellScript /Clojure
+
+- 🔭 I’m currently working on Nothing 
+- 🌱 I’m currently learning Nothing 
+- 💬 Ask me about Anything 
+- 📫 How to reach me: https://discord.gg/3JNWYxKB4p 
+
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Xrios&show_icons=true&gruvbox=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrios)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrios&show_icons=true&theme=radical)
 
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 https://discord.gg/j43qqBNh
 
 
-My Operating System
+### My Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-Editors i use
+### Editors i use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-Programming Languages I use and Know
+
+
+#### Programming Languages I use and Know
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,3 +52,7 @@ Programming Languages I use and Know
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Xrios)  
+
+![Profile views](https://gpvc.arturio.dev/Xrios)  
