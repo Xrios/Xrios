@@ -6,15 +6,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/Xrios)
 
-I Make projects just for myself or public
-Im active alot on discord or github
+- I Make projects just for myself or public
+- Im active alot on discord or github
 
-Skills: Python /C /C#C++ /CSS3 /HTML5 /Java /Javascript /Lua /PHP /Ruby /Swift/Dart /Julia /Rust /ShellScript /Clojure
 
-- 🔭 I’m currently working on Nothing 
-- 🌱 I’m currently learning Nothing 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: https://discord.gg/3JNWYxKB4p 
+- 📫 Reach me on my discord server: https://discord.gg/3JNWYxKB4p 
 
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Xrios&show_icons=true&gruvbox=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrios&show_icons=true&theme=radical)
