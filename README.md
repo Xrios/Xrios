@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Hey It's me Xrios
 #### I am Developer, Coder, Ethical Hacker
-![I am Developer, Coder, Ethical Hacker](https://api.creavite.co/out/e858e1b3-e7a2-4c40-9a7b-e00edaf74249_static.png)
+![I am Developer, Coder, Ethical Hacker]
 
 ![Profile views](https://gpvc.arturio.dev/Xrios)
 
