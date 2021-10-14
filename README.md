@@ -2,7 +2,6 @@
 
 ### Hi there 👋, Hey It's me Xrios
 #### I am Developer, Coder, Ethical Hacker
-![I am Developer, Coder, Ethical Hacker]
 
 ![Profile views](https://gpvc.arturio.dev/Xrios)
 
